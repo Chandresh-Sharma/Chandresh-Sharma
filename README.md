@@ -73,7 +73,7 @@
  
 <p align="center">
     <a href="https://github.com/Chandresh-Sharma/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarikasoni23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandresh-Sharma&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
@@ -81,7 +81,7 @@
 
 
   <br/>
-  <a href="https://github.com/Chandresh-Sharma/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarikasoni23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&hide=jupyter%20notebook,html,css,shell,dockerfile,procfile" /></a>
+  <a href="https://github.com/Chandresh-Sharma/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandresh-Sharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&hide=jupyter%20notebook,html,css,shell,dockerfile,procfile" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
  
@@ -100,6 +100,7 @@
  
 ## ❤ Views and Followers
 <a href="https://github.com/Chandresh-Sharma?tab=followers"><img src="https://img.shields.io/github/followers/Chandresh-Sharma?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Chandresh-Sharma)  
+
 
 
 <!--
